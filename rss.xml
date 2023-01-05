@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Fabian TSCHIRHART</title>
+        <link>https://fabian68.github.io/</link>
+        <description>Profil personnel Fabian TSCHIRHART.</description>
+        <generator>Hugo 0.109.0 https://gohugo.io/</generator>
+        
+            <language>fr</language>
+        
+        
+            <managingEditor>fabiantsch@gmail.com (Fabian TSCHIRHART)</managingEditor>
+        
+        
+            <webMaster>fabiantsch@gmail.com (Fabian TSCHIRHART)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Thu, 05 Jan 2023 19:35:31 &#43;0100</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://fabian68.github.io/rss.xml" />
+        
+        
+    </channel>
+</rss>
