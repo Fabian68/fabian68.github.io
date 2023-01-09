@@ -23,10 +23,627 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 05 Jan 2023 19:35:31 &#43;0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 14:03:59 &#43;0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://fabian68.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Master informatique et mobilité</title>
+                <link>https://fabian68.github.io/posts/master-informatique-mobilite/</link>
+                <guid isPermaLink="true">https://fabian68.github.io/posts/master-informatique-mobilite/</guid>
+                <pubDate>Sat, 15 Oct 2022 13:45:31 &#43;0000</pubDate>
+                
+                    <author>fabiantsch@gmail.com (Fabian TSCHIRHART)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;compétences-acquises-ou-consolidés-&#34;&gt;Compétences acquises ou consolidés :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Programmation mobile android et IOS(Java et swift)&lt;/li&gt;
+&lt;li&gt;Programmation web (PHP)&lt;/li&gt;
+&lt;li&gt;Programmation objet sur les projets (C++ &lt;a href=&#34;https://github.com/Fabian68/power4&#34;&gt;Lien GitHub&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Modélisation 3D OpenGL(C++)&lt;/li&gt;
+&lt;li&gt;Traitement image (C++,OpenCV)&lt;/li&gt;
+&lt;li&gt;Sécurités (ANSSI, Root-Me,OWASP10)&lt;/li&gt;
+&lt;li&gt;Communication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;notions-introduites-&#34;&gt;Notions introduites :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Programmation sur GPU (solution CUDA, carte graphique NVIDIA)&lt;/li&gt;
+&lt;li&gt;Programmation Asynchrone&lt;/li&gt;
+&lt;li&gt;Modélisation UML&lt;/li&gt;
+&lt;li&gt;Patron de conceptions&lt;/li&gt;
+&lt;li&gt;Génie logiciel (Théorie)&lt;/li&gt;
+&lt;li&gt;Méthodes agiles (via un projet avec sprints et différentes équipes)&lt;/li&gt;
+&lt;li&gt;Docker &amp;amp; Kubernetes&lt;/li&gt;
+&lt;li&gt;Entrepot de données&lt;/li&gt;
+&lt;li&gt;Reporting (Python et Pentaho)&lt;/li&gt;
+&lt;li&gt;Sockets (Linux)&lt;/li&gt;
+&lt;li&gt;Projet client et serveur (simulation &lt;a href=&#34;https://github.com/Fabian68/NetworkProject&#34;&gt;Lien GitHub&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;Javascript (NodeJS)&lt;/li&gt;
+&lt;li&gt;Interaction homme machine&lt;/li&gt;
+&lt;li&gt;Automates pour les verifications de modèles (model checking)&lt;/li&gt;
+&lt;li&gt;Objects connectées (android + protocole mqtt)&lt;/li&gt;
+&lt;li&gt;Communications sans fil (Java + RMI)&lt;/li&gt;
+&lt;li&gt;Base de données pour la mise à l&amp;rsquo;échelle (NoSQL)&lt;/li&gt;
+&lt;li&gt;Fouille de données (Python,Pentaho)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/categories/etudes/">Etudes</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/c-/">C&#43;&#43;</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/java/">Java</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/opencv/">OpenCv</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/opengl/">OpenGL</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/php/">PHP</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/python/">Python</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/cybers%C3%A9curit%C3%A9/">Cybersécurité</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>IRIMAS , Ingenieur de recherche</title>
+                <link>https://fabian68.github.io/posts/irimas-ingenieur-de-recherche/</link>
+                <guid isPermaLink="true">https://fabian68.github.io/posts/irimas-ingenieur-de-recherche/</guid>
+                <pubDate>Fri, 22 Jul 2022 13:23:42 &#43;0000</pubDate>
+                
+                    <author>fabiantsch@gmail.com (Fabian TSCHIRHART)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h1 id=&#34;objectifs-&#34;&gt;OBJECTIFS :&lt;/h1&gt;
+&lt;p&gt;Notre objectif était de travailler sur un nouveau modèle d&amp;rsquo;objectif (de caméra) avec des caractéristiques innovantes. Cet objectif permettrait à terme de réaliser de l&amp;rsquo;odométrie visuelle, c&amp;rsquo;est-à-dire la prédiction des futurs déplacements d&amp;rsquo;un véhicule. Ainsi, nous avons effectué des recherches afin de savoir comment calculer les distances entre l&amp;rsquo;objectif de la caméra et les objets sur la scène, c&amp;rsquo;est-à-dire le lieu que l&amp;rsquo;on voit à travers la caméra.&lt;/p&gt;
+&lt;h1 id=&#34;domaines-de-competences-&#34;&gt;DOMAINES DE COMPETENCES :&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vision&lt;/li&gt;
+&lt;li&gt;Traitement d’image&lt;/li&gt;
+&lt;li&gt;Autonomie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;etapes-&#34;&gt;ETAPES :&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Recherche d’informations sur l’objectif de la caméra et notamment à l&amp;rsquo;aide d&amp;rsquo;articles sur le sujet&lt;/li&gt;
+&lt;li&gt;Essayer deux méthodes de calculs de distances&lt;/li&gt;
+&lt;li&gt;Restituer les résultats sous formes de graphiques avec la bibliothèque Matplotlib de python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;resultats-&#34;&gt;RESULTATS :&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Architecture de l’objectif (de caméra) connu&lt;/li&gt;
+&lt;li&gt;Les méthodes de calculs de distances sont à améliorer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;outils--techniques-&#34;&gt;OUTILS &amp;amp; TECHNIQUES :&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Python (Anaconda3), Librairie OpenCv&lt;/li&gt;
+&lt;li&gt;Windows 10&lt;/li&gt;
+&lt;li&gt;Rédaction de rapports&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rapport-de-stage-&#34;&gt;Rapport de stage :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Telecharger le rapport : &lt;a href=&#34;../Rapport_de_stage_IRIMAS_Fabian_TSCHIRHART.pdf&#34; download&gt;../Rapport_de_stage_IRIMAS_Fabian_TSCHIRHART.pdf&lt;/a&gt;
+&lt;a href=&#34;../Rapport_de_stage_IRIMAS_Fabian_TSCHIRHART.pdf&#34;&gt;Visualiser le rapport en ligne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/categories/experiences/">Experiences</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/categories/stages/">Stages</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/2022/">2022</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/autonomie/">Autonomie</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/equipe/">Equipe</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/opencv/">OpenCv</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/python/">Python</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/r%C3%A9daction/">Rédaction</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/vision/">Vision</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/traitement-dimage/">Traitement d&#39;image</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>DM Services, développement d’un logiciel de gestion</title>
+                <link>https://fabian68.github.io/posts/dm-services-developpement-logiciel-de-gestion/</link>
+                <guid isPermaLink="true">https://fabian68.github.io/posts/dm-services-developpement-logiciel-de-gestion/</guid>
+                <pubDate>Sun, 30 May 2021 12:57:17 &#43;0000</pubDate>
+                
+                    <author>fabiantsch@gmail.com (Fabian TSCHIRHART)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;objectifs-&#34;&gt;OBJECTIFS :&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;entreprise avait d&amp;rsquo;abord proposé de créer un site internet, mais pour des raisons pratiques, j&amp;rsquo;ai plutôt proposé un logiciel de bureau afin de limiter les éventuelles erreurs de sécurité que je pourrais commettre en travaillant seul sur ce projet. L&amp;rsquo;objectif était donc de pouvoir gérer les clients, les livraisons, ainsi que de créer des devis et des factures.&lt;/p&gt;
+&lt;h2 id=&#34;domaines-de-competences-&#34;&gt;DOMAINES DE COMPETENCES :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Modélisation d’une base de données&lt;/li&gt;
+&lt;li&gt;Programmation objet&lt;/li&gt;
+&lt;li&gt;Autonomie&lt;/li&gt;
+&lt;li&gt;Force de proposition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;etapes-&#34;&gt;ETAPES :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Création du modèle de la base de données&lt;/li&gt;
+&lt;li&gt;Gestion des clients&lt;/li&gt;
+&lt;li&gt;Gestion des livraisons&lt;/li&gt;
+&lt;li&gt;Création des devis et factures&lt;/li&gt;
+&lt;li&gt;Gestion du planning (idée que j’ai proposé) avec google agenda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resultats-&#34;&gt;RESULTATS :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gain de temps par rapport au format papier&lt;/li&gt;
+&lt;li&gt;Programme encore fonctionnel aujourd’hui&lt;/li&gt;
+&lt;li&gt;Merguez et bois de chauffage gratuit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;outils--techniques-&#34;&gt;OUTILS &amp;amp; TECHNIQUES :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Formation et support&lt;/li&gt;
+&lt;li&gt;Langage Java, Interface de programmation&lt;/li&gt;
+&lt;li&gt;Google Cloud Platform, Windows 10, Base de données relationnel MySQL.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vidéo-de-présentation-&#34;&gt;Vidéo de présentation :&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/VLabXn5b26M?rel=0&amp;start=0&#34;
+          style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34;
+          allowfullscreen=&#34;&#34; title=&#34;Présentation de stage, logiciel de gestion, 1 mois Java/SQL/Google/PDF&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;(Post optimisation rapidité)&lt;/p&gt;
+&lt;h3 id=&#34;rapport-de-stage-&#34;&gt;Rapport de stage :&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Telecharger le rapport : &lt;a href=&#34;../Rapport_de_stage_DMS_Fabian_TSCHIRHART.pdf&#34; download&gt;../Rapport_de_stage_DMS_Fabian_TSCHIRHART.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../Rapport_de_stage_DMS_Fabian_TSCHIRHART.pdf&#34;&gt;Visualiser le rapport en ligne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;code-source-sans-accès-api-post-optimisations&#34;&gt;Code source (sans accès api) (post optimisations)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1jt4--a1RK1138LlL9nwOKd2h4hyh-w8M/view?usp=sharing&#34;&gt;Fichier en ligne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/categories/experiences/">Experiences</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/categories/stages/">Stages</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/2021/">2021</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/api/">API</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/bdd-relationnel/">BdD relationnel</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/formation/">Formation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/google-cloud-platform/">Google Cloud Platform</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/java/">Java</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/support/">Support</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/erp/">ERP</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Licence informatique</title>
+                <link>https://fabian68.github.io/posts/licence-informatique/</link>
+                <guid isPermaLink="true">https://fabian68.github.io/posts/licence-informatique/</guid>
+                <pubDate>Sun, 12 Jan 2020 13:33:03 &#43;0000</pubDate>
+                
+                    <author>fabiantsch@gmail.com (Fabian TSCHIRHART)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;compétences-acquises-&#34;&gt;Compétences acquises :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithme&lt;/li&gt;
+&lt;li&gt;Algèbre linéaire&lt;/li&gt;
+&lt;li&gt;Arithmétique&lt;/li&gt;
+&lt;li&gt;Cinéma&lt;/li&gt;
+&lt;li&gt;Expression orale&lt;/li&gt;
+&lt;li&gt;Modélisation base de données et création d&amp;rsquo;une base de données sur Access + VBA (projet 1 mois)&lt;/li&gt;
+&lt;li&gt;Programmation orienté objets&lt;/li&gt;
+&lt;li&gt;Tests unitaires (projet : &lt;a href=&#34;https://github.com/Fabian68/QualiteProg&#34;&gt;Lien GitHub&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;Intelligence artificielle ancienne et nouvelle (Génétique, apprentissage et utilisation de modèles existant, applications réelles pour la détection, matrices de confusions )&lt;/li&gt;
+&lt;li&gt;Programation récursive&lt;/li&gt;
+&lt;li&gt;Algorithmie parralèle&lt;/li&gt;
+&lt;li&gt;Programmation smartphone android (Java)&lt;/li&gt;
+&lt;li&gt;Programmation JAVA,PHP,C++,SQL&lt;/li&gt;
+&lt;li&gt;Automates (fini déterministe et non déterministe)&lt;/li&gt;
+&lt;li&gt;Analyse et traitement d&amp;rsquo;images (OpenCV)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;notions-introduites-&#34;&gt;Notions introduites :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Atomistique&lt;/li&gt;
+&lt;li&gt;Mécanique&lt;/li&gt;
+&lt;li&gt;Théorème&lt;/li&gt;
+&lt;li&gt;Représentation des données (Hex,Binaire, nombre flottant norme ieee 754 etc)&lt;/li&gt;
+&lt;li&gt;Script sous Ubuntu(Bash,cmd) et windows (cmd,Batch,PowerShell)&lt;/li&gt;
+&lt;li&gt;Probabilités&lt;/li&gt;
+&lt;li&gt;Analyse des données&lt;/li&gt;
+&lt;li&gt;Programmation propre (clean code)&lt;/li&gt;
+&lt;li&gt;Recherche opérationnelle&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/categories/etudes/">Etudes</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/2019/">2019</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/bdd-relationnel/">BdD relationnel</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/c-/">C&#43;&#43;</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/ia/">IA</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/java/">Java</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/maths/">Maths</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/opencv/">OpenCv</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/php/">PHP</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/poo/">POO</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/sql/">SQL</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/2020/">2020</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Les ecuries du sundgau, développement d’un site internet</title>
+                <link>https://fabian68.github.io/posts/les-ecuries-du-sundgau-developpement-site-internet/</link>
+                <guid isPermaLink="true">https://fabian68.github.io/posts/les-ecuries-du-sundgau-developpement-site-internet/</guid>
+                <pubDate>Mon, 01 Jul 2019 10:57:55 &#43;0000</pubDate>
+                
+                    <author>fabiantsch@gmail.com (Fabian TSCHIRHART)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;objectifs-&#34;&gt;OBJECTIFS :&lt;/h2&gt;
+&lt;p&gt;Le gérant avait pour objectif d&amp;rsquo;augmenter la visibilité de l&amp;rsquo;écurie et de pouvoir organiser des événements sur le site internet. De plus, les clients de l&amp;rsquo;écurie doivent pouvoir accéder au site et s&amp;rsquo;inscrire à des événements. Nous étions trois stagiaires sur la conception du site, dont un sur la partie visuelle (front).&lt;/p&gt;
+&lt;h2 id=&#34;domaines-de-competences-&#34;&gt;DOMAINES DE COMPETENCES :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Modélisation d’une base de données&lt;/li&gt;
+&lt;li&gt;Maquettage&lt;/li&gt;
+&lt;li&gt;Programmation objet&lt;/li&gt;
+&lt;li&gt;Autonomie&lt;/li&gt;
+&lt;li&gt;Force de proposition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;etapes-&#34;&gt;ETAPES :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Création du modèle de la base de données&lt;/li&gt;
+&lt;li&gt;Préparation de maquettes&lt;/li&gt;
+&lt;li&gt;Création des requêtes&lt;/li&gt;
+&lt;li&gt;Création des formulaires&lt;/li&gt;
+&lt;li&gt;Hébergement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resultats-&#34;&gt;RESULTATS :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Site finalisé et hébergé&lt;/li&gt;
+&lt;li&gt;Cohésion entre stagiaires excellente&lt;/li&gt;
+&lt;li&gt;Expérience inoubliable à la campagne&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;outils--techniques-&#34;&gt;OUTILS &amp;amp; TECHNIQUES :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Formation et support&lt;/li&gt;
+&lt;li&gt;Langage PHP, Framework Symfony, Windows 7, Base de données relationnel MySQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rapport-de-stage-&#34;&gt;Rapport de stage :&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Telecharger le rapport : &lt;a href=&#34;../Rapport_de_stage_DMS_Fabian_TS2019_L3INFO_TschirhartFabian.pdf&#34; download&gt;../Rapport_de_stage_DMS_Fabian_TS2019_L3INFO_TschirhartFabian.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../2019_L3INFO_TschirhartFabian.pdf&#34;&gt;Visualiser le rapport en ligne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;code-source-&#34;&gt;Code source :&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Fabian68/les_ecuries_du_sundgau&#34;&gt;Lien GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/categories/experiences/">Experiences</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/categories/stages/">Stages</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/2019/">2019</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/bdd-relationnel/">BdD relationnel</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/formation/">Formation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/php/">PHP</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/support/">Support</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/symfony/">Symfony</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/web/">WEB</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fabian68.github.io/tags/equipe/">Equipe</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
