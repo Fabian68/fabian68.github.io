@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 09 Jan 2023 14:03:59 &#43;0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 09:49:17 &#43;0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://fabian68.github.io/rss.xml" />
         
@@ -38,7 +38,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;h2 id=&#34;compétences-acquises-ou-consolidés-&#34;&gt;Compétences acquises ou consolidés :&lt;/h2&gt;
+                    <description>&lt;h2 id=&#34;compétences-acquises-ou-consolidées-&#34;&gt;Compétences acquises ou consolidées :&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Programmation mobile android et IOS(Java et swift)&lt;/li&gt;
 &lt;li&gt;Programmation web (PHP)&lt;/li&gt;
@@ -64,7 +64,7 @@
 &lt;li&gt;Javascript (NodeJS)&lt;/li&gt;
 &lt;li&gt;Interaction homme machine&lt;/li&gt;
 &lt;li&gt;Automates pour les verifications de modèles (model checking)&lt;/li&gt;
-&lt;li&gt;Objects connectées (android + protocole mqtt)&lt;/li&gt;
+&lt;li&gt;Objects connectés (android + protocole mqtt)&lt;/li&gt;
 &lt;li&gt;Communications sans fil (Java + RMI)&lt;/li&gt;
 &lt;li&gt;Base de données pour la mise à l&amp;rsquo;échelle (NoSQL)&lt;/li&gt;
 &lt;li&gt;Fouille de données (Python,Pentaho)&lt;/li&gt;
@@ -155,13 +155,13 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;etapes-&#34;&gt;ETAPES :&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Recherche d’informations sur l’objectif de la caméra et notamment à l&amp;rsquo;aide d&amp;rsquo;articles sur le sujet&lt;/li&gt;
+&lt;li&gt;Rechercher des informations sur l’objectif de la caméra et notamment à l&amp;rsquo;aide d&amp;rsquo;articles sur le sujet&lt;/li&gt;
 &lt;li&gt;Essayer deux méthodes de calculs de distances&lt;/li&gt;
-&lt;li&gt;Restituer les résultats sous formes de graphiques avec la bibliothèque Matplotlib de python&lt;/li&gt;
+&lt;li&gt;Restituer les résultats sous forme de graphiques avec la bibliothèque Matplotlib de python&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;resultats-&#34;&gt;RESULTATS :&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Architecture de l’objectif (de caméra) connu&lt;/li&gt;
+&lt;li&gt;Architecture de l’objectif (de caméra) connue&lt;/li&gt;
 &lt;li&gt;Les méthodes de calculs de distances sont à améliorer&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;outils--techniques-&#34;&gt;OUTILS &amp;amp; TECHNIQUES :&lt;/h1&gt;
@@ -284,7 +284,7 @@
 &lt;ul&gt;
 &lt;li&gt;Gain de temps par rapport au format papier&lt;/li&gt;
 &lt;li&gt;Programme encore fonctionnel aujourd’hui&lt;/li&gt;
-&lt;li&gt;Merguez et bois de chauffage gratuit&lt;/li&gt;
+&lt;li&gt;Merguez et bois de chauffage gratuits&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;outils--techniques-&#34;&gt;OUTILS &amp;amp; TECHNIQUES :&lt;/h2&gt;
 &lt;ul&gt;
@@ -407,9 +407,9 @@
 &lt;li&gt;Cinéma&lt;/li&gt;
 &lt;li&gt;Expression orale&lt;/li&gt;
 &lt;li&gt;Modélisation base de données et création d&amp;rsquo;une base de données sur Access + VBA (projet 1 mois)&lt;/li&gt;
-&lt;li&gt;Programmation orienté objets&lt;/li&gt;
+&lt;li&gt;Programmation orientée objets&lt;/li&gt;
 &lt;li&gt;Tests unitaires (projet : &lt;a href=&#34;https://github.com/Fabian68/QualiteProg&#34;&gt;Lien GitHub&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;Intelligence artificielle ancienne et nouvelle (Génétique, apprentissage et utilisation de modèles existant, applications réelles pour la détection, matrices de confusions )&lt;/li&gt;
+&lt;li&gt;Intelligence artificielle ancienne et nouvelle (Génétique, apprentissage et utilisation de modèles existants, applications réelles pour la détection, matrices de confusions )&lt;/li&gt;
 &lt;li&gt;Programation récursive&lt;/li&gt;
 &lt;li&gt;Algorithmie parralèle&lt;/li&gt;
 &lt;li&gt;Programmation smartphone android (Java)&lt;/li&gt;

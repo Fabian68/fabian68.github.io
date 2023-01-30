@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
     <title type="text">Fabian TSCHIRHART</title>
     <subtitle type="html">Profil personnel Fabian TSCHIRHART.</subtitle>
-    <updated>2023-01-09T14:03:59&#43;01:00</updated>
+    <updated>2023-01-30T09:49:17&#43;01:00</updated>
     <id>https://fabian68.github.io/</id>
     <link rel="alternate" type="text/html" href="https://fabian68.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://fabian68.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Master informatique et mobilité</title>
             <link rel="alternate" type="text/html" href="https://fabian68.github.io/posts/master-informatique-mobilite/" />
             <id>https://fabian68.github.io/posts/master-informatique-mobilite/</id>
-            <updated>2023-01-09T14:03:23&#43;01:00</updated>
+            <updated>2023-01-18T20:42:07&#43;01:00</updated>
             <published>2022-10-15T13:45:31&#43;00:00</published>
             <author>
                     <name>Fabian TSCHIRHART</name>
@@ -29,7 +29,7 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Université de Haute-Alsace, Faculté des Sciences et Techniques septembre 2020 à septembre 2022</summary>
             
-                <content type="html">&lt;h2 id=&#34;compétences-acquises-ou-consolidés-&#34;&gt;Compétences acquises ou consolidés :&lt;/h2&gt;
+                <content type="html">&lt;h2 id=&#34;compétences-acquises-ou-consolidées-&#34;&gt;Compétences acquises ou consolidées :&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Programmation mobile android et IOS(Java et swift)&lt;/li&gt;
 &lt;li&gt;Programmation web (PHP)&lt;/li&gt;
@@ -55,7 +55,7 @@
 &lt;li&gt;Javascript (NodeJS)&lt;/li&gt;
 &lt;li&gt;Interaction homme machine&lt;/li&gt;
 &lt;li&gt;Automates pour les verifications de modèles (model checking)&lt;/li&gt;
-&lt;li&gt;Objects connectées (android + protocole mqtt)&lt;/li&gt;
+&lt;li&gt;Objects connectés (android + protocole mqtt)&lt;/li&gt;
 &lt;li&gt;Communications sans fil (Java + RMI)&lt;/li&gt;
 &lt;li&gt;Base de données pour la mise à l&amp;rsquo;échelle (NoSQL)&lt;/li&gt;
 &lt;li&gt;Fouille de données (Python,Pentaho)&lt;/li&gt;
@@ -130,14 +130,14 @@
             <title type="text">IRIMAS , Ingenieur de recherche</title>
             <link rel="alternate" type="text/html" href="https://fabian68.github.io/posts/irimas-ingenieur-de-recherche/" />
             <id>https://fabian68.github.io/posts/irimas-ingenieur-de-recherche/</id>
-            <updated>2023-01-09T14:02:35&#43;01:00</updated>
+            <updated>2023-01-18T20:44:18&#43;01:00</updated>
             <published>2022-07-22T13:23:42&#43;00:00</published>
             <author>
                     <name>Fabian TSCHIRHART</name>
                     <uri>https://fabian68.github.io/</uri>
                     <email>fabiantsch@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Etude d&#39;un nouveau type d&#39;obkectif (Kaléidoscopique) de caméra sur une durée de 6 mois</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Etude d&#39;un nouveau type d&#39;objectif (Kaléidoscopique) de caméra sur une durée de 6 mois</summary>
             
                 <content type="html">&lt;h1 id=&#34;objectifs-&#34;&gt;OBJECTIFS :&lt;/h1&gt;
 &lt;p&gt;Notre objectif était de travailler sur un nouveau modèle d&amp;rsquo;objectif (de caméra) avec des caractéristiques innovantes. Cet objectif permettrait à terme de réaliser de l&amp;rsquo;odométrie visuelle, c&amp;rsquo;est-à-dire la prédiction des futurs déplacements d&amp;rsquo;un véhicule. Ainsi, nous avons effectué des recherches afin de savoir comment calculer les distances entre l&amp;rsquo;objectif de la caméra et les objets sur la scène, c&amp;rsquo;est-à-dire le lieu que l&amp;rsquo;on voit à travers la caméra.&lt;/p&gt;
@@ -149,13 +149,13 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;etapes-&#34;&gt;ETAPES :&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Recherche d’informations sur l’objectif de la caméra et notamment à l&amp;rsquo;aide d&amp;rsquo;articles sur le sujet&lt;/li&gt;
+&lt;li&gt;Rechercher des informations sur l’objectif de la caméra et notamment à l&amp;rsquo;aide d&amp;rsquo;articles sur le sujet&lt;/li&gt;
 &lt;li&gt;Essayer deux méthodes de calculs de distances&lt;/li&gt;
-&lt;li&gt;Restituer les résultats sous formes de graphiques avec la bibliothèque Matplotlib de python&lt;/li&gt;
+&lt;li&gt;Restituer les résultats sous forme de graphiques avec la bibliothèque Matplotlib de python&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;resultats-&#34;&gt;RESULTATS :&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Architecture de l’objectif (de caméra) connu&lt;/li&gt;
+&lt;li&gt;Architecture de l’objectif (de caméra) connue&lt;/li&gt;
 &lt;li&gt;Les méthodes de calculs de distances sont à améliorer&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;outils--techniques-&#34;&gt;OUTILS &amp;amp; TECHNIQUES :&lt;/h1&gt;
@@ -251,7 +251,7 @@
             <title type="text">DM Services, développement d’un logiciel de gestion</title>
             <link rel="alternate" type="text/html" href="https://fabian68.github.io/posts/dm-services-developpement-logiciel-de-gestion/" />
             <id>https://fabian68.github.io/posts/dm-services-developpement-logiciel-de-gestion/</id>
-            <updated>2023-01-09T14:02:37&#43;01:00</updated>
+            <updated>2023-01-18T20:44:34&#43;01:00</updated>
             <published>2021-05-30T12:57:17&#43;00:00</published>
             <author>
                     <name>Fabian TSCHIRHART</name>
@@ -281,7 +281,7 @@
 &lt;ul&gt;
 &lt;li&gt;Gain de temps par rapport au format papier&lt;/li&gt;
 &lt;li&gt;Programme encore fonctionnel aujourd’hui&lt;/li&gt;
-&lt;li&gt;Merguez et bois de chauffage gratuit&lt;/li&gt;
+&lt;li&gt;Merguez et bois de chauffage gratuits&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;outils--techniques-&#34;&gt;OUTILS &amp;amp; TECHNIQUES :&lt;/h2&gt;
 &lt;ul&gt;
@@ -390,7 +390,7 @@
             <title type="text">Licence informatique</title>
             <link rel="alternate" type="text/html" href="https://fabian68.github.io/posts/licence-informatique/" />
             <id>https://fabian68.github.io/posts/licence-informatique/</id>
-            <updated>2023-01-09T14:03:23&#43;01:00</updated>
+            <updated>2023-01-18T20:45:21&#43;01:00</updated>
             <published>2020-01-12T13:33:03&#43;00:00</published>
             <author>
                     <name>Fabian TSCHIRHART</name>
@@ -407,9 +407,9 @@
 &lt;li&gt;Cinéma&lt;/li&gt;
 &lt;li&gt;Expression orale&lt;/li&gt;
 &lt;li&gt;Modélisation base de données et création d&amp;rsquo;une base de données sur Access + VBA (projet 1 mois)&lt;/li&gt;
-&lt;li&gt;Programmation orienté objets&lt;/li&gt;
+&lt;li&gt;Programmation orientée objets&lt;/li&gt;
 &lt;li&gt;Tests unitaires (projet : &lt;a href=&#34;https://github.com/Fabian68/QualiteProg&#34;&gt;Lien GitHub&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;Intelligence artificielle ancienne et nouvelle (Génétique, apprentissage et utilisation de modèles existant, applications réelles pour la détection, matrices de confusions )&lt;/li&gt;
+&lt;li&gt;Intelligence artificielle ancienne et nouvelle (Génétique, apprentissage et utilisation de modèles existants, applications réelles pour la détection, matrices de confusions )&lt;/li&gt;
 &lt;li&gt;Programation récursive&lt;/li&gt;
 &lt;li&gt;Algorithmie parralèle&lt;/li&gt;
 &lt;li&gt;Programmation smartphone android (Java)&lt;/li&gt;
